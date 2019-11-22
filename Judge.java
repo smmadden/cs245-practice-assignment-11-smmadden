@@ -10,7 +10,6 @@ public class Judge
         // list of everyone who trusts someone and everyone who is trusted
         ArrayList<Integer> trusts = new ArrayList<>();
         ArrayList<Integer> trusted = new ArrayList<>();
-
         for(int i=0; i<trust.length; i++){
             trusts.add(trust[i][0]);
             trusted.add(trust[i][1]);
