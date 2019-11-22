@@ -1,4 +1,4 @@
-# cs245-practice-assignment-11-smmadden-
+# cs245-practice-assignment-11-smmadden
 
 Implements a function to find the judge in a town.
 
